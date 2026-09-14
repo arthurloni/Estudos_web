@@ -1,0 +1,2119 @@
+{
+  "type": "excalidraw",
+  "version": 2,
+  "source": "https://excalidraw.com",
+  "elements": [
+    {
+      "id": "pH4Bew1a35nRVdmaGRCLl",
+      "type": "arrow",
+      "x": 818.4642857142853,
+      "y": 1388.219432653061,
+      "width": 89.27777777777817,
+      "height": 0.40594058956889967,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "index": "b3J",
+      "roundness": {
+        "type": 2
+      },
+      "seed": 1297164409,
+      "version": 570,
+      "versionNonce": 1260193975,
+      "isDeleted": true,
+      "boundElements": null,
+      "updated": 1789351259090,
+      "created": 1789350573835,
+      "link": null,
+      "locked": false,
+      "points": [
+        [
+          0,
+          0
+        ],
+        [
+          89.27777777777817,
+          -0.40594058956889967
+        ]
+      ],
+      "startBinding": {
+        "elementId": "TVbbNPp3Q_0hc4OHtGZt8",
+        "mode": "orbit",
+        "fixedPoint": [
+          1,
+          0.5001
+        ]
+      },
+      "endBinding": null,
+      "startArrowhead": null,
+      "endArrowhead": "arrow",
+      "elbowed": false,
+      "moveMidPointsWithElement": false
+    },
+    {
+      "id": "NkPcIP4khktx_Jz63P41k",
+      "type": "arrow",
+      "x": 293.2976190476172,
+      "y": 1516.5634920634905,
+      "width": 57.49999999999997,
+      "height": 68.88888888888891,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "index": "b6c",
+      "roundness": {
+        "type": 2
+      },
+      "seed": 275681399,
+      "version": 329,
+      "versionNonce": 1609465721,
+      "isDeleted": true,
+      "boundElements": null,
+      "updated": 1789351332883,
+      "created": 1789351018515,
+      "link": null,
+      "locked": false,
+      "points": [
+        [
+          0,
+          0
+        ],
+        [
+          -57.49999999999997,
+          68.88888888888891
+        ]
+      ],
+      "startBinding": null,
+      "endBinding": null,
+      "startArrowhead": null,
+      "endArrowhead": "arrow",
+      "elbowed": false,
+      "moveMidPointsWithElement": false
+    },
+    {
+      "id": "OjcgNFPAcz5DKmb42lmEF",
+      "type": "arrow",
+      "x": 797.5424446227042,
+      "y": 1354.1518425394622,
+      "width": 127.11628553602407,
+      "height": 110.69157682583386,
+      "angle": 0,
+      "strokeColor": "#9c36b5",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "index": "b6g",
+      "roundness": {
+        "type": 2
+      },
+      "seed": 430810231,
+      "version": 254,
+      "versionNonce": 619437017,
+      "isDeleted": true,
+      "boundElements": null,
+      "updated": 1789351252536,
+      "created": 1789351242148,
+      "link": null,
+      "locked": false,
+      "points": [
+        [
+          0,
+          0
+        ],
+        [
+          127.11628553602407,
+          110.69157682583386
+        ]
+      ],
+      "startBinding": {
+        "elementId": "_NZ-meEO0III58o--e44L",
+        "mode": "orbit",
+        "fixedPoint": [
+          1,
+          0.5001
+        ]
+      },
+      "endBinding": {
+        "elementId": "c2mTg1NKKDi1D-LpujRbc",
+        "mode": "orbit",
+        "fixedPoint": [
+          0,
+          0.5001
+        ]
+      },
+      "startArrowhead": null,
+      "endArrowhead": "arrow",
+      "elbowed": false,
+      "moveMidPointsWithElement": false
+    },
+    {
+      "id": "5GPpWJjIRhk_i4ewC2AdN",
+      "type": "arrow",
+      "x": 797.5424446227041,
+      "y": 1349.5374648782138,
+      "width": 127.11628553602418,
+      "height": 106.4641851140791,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "index": "b6h",
+      "roundness": {
+        "type": 2
+      },
+      "seed": 966625015,
+      "version": 1170,
+      "versionNonce": 1205052985,
+      "isDeleted": true,
+      "boundElements": null,
+      "updated": 1789351312400,
+      "created": 1789351263011,
+      "link": null,
+      "locked": false,
+      "points": [
+        [
+          0,
+          0
+        ],
+        [
+          75.89406331380178,
+          7.7204716297192135
+        ],
+        [
+          127.11628553602418,
+          106.4641851140791
+        ]
+      ],
+      "startBinding": {
+        "elementId": "_NZ-meEO0III58o--e44L",
+        "mode": "orbit",
+        "fixedPoint": [
+          1,
+          0.5001
+        ]
+      },
+      "endBinding": {
+        "elementId": "c2mTg1NKKDi1D-LpujRbc",
+        "mode": "orbit",
+        "fixedPoint": [
+          0,
+          0.5001
+        ]
+      },
+      "startArrowhead": null,
+      "endArrowhead": "arrow",
+      "elbowed": false,
+      "moveMidPointsWithElement": false
+    },
+    {
+      "id": "hJ0owjEfWdFOkLxFLSkJn",
+      "type": "arrow",
+      "x": 816.596569242931,
+      "y": 1437.3803451310193,
+      "width": 0,
+      "height": 0,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "index": "b6j",
+      "roundness": {
+        "type": 2
+      },
+      "seed": 549595225,
+      "version": 287,
+      "versionNonce": 409761433,
+      "isDeleted": true,
+      "boundElements": null,
+      "updated": 1789351339544,
+      "created": 1789351335516,
+      "link": null,
+      "locked": false,
+      "points": [
+        [
+          0,
+          0
+        ]
+      ],
+      "startBinding": {
+        "elementId": "ObddClF2haPIhQymn_iQB",
+        "mode": "orbit",
+        "fixedPoint": [
+          1,
+          0.5001
+        ]
+      },
+      "endBinding": null,
+      "startArrowhead": null,
+      "endArrowhead": "arrow",
+      "elbowed": false
+    },
+    {
+      "id": "7QgzxX1bnkWKcNQ2-Zw0e",
+      "type": "arrow",
+      "x": 324.5582138398447,
+      "y": 1494.369047619047,
+      "width": 0,
+      "height": 0,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "index": "b6k",
+      "roundness": {
+        "type": 2
+      },
+      "seed": 11811705,
+      "version": 69,
+      "versionNonce": 128184057,
+      "isDeleted": true,
+      "boundElements": null,
+      "updated": 1789351344337,
+      "created": 1789351343129,
+      "link": null,
+      "locked": false,
+      "points": [
+        [
+          0,
+          0
+        ]
+      ],
+      "startBinding": {
+        "elementId": "ObddClF2haPIhQymn_iQB",
+        "mode": "orbit",
+        "fixedPoint": [
+          0.5001,
+          1
+        ]
+      },
+      "endBinding": null,
+      "startArrowhead": null,
+      "endArrowhead": "arrow",
+      "elbowed": false
+    },
+    {
+      "id": "Ip4i5rdttzlM3lPPyR0Zk",
+      "type": "arrow",
+      "x": 325.9365079365059,
+      "y": 1486.007936507933,
+      "width": 0,
+      "height": 0,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "index": "b6l",
+      "roundness": {
+        "type": 2
+      },
+      "seed": 8813047,
+      "version": 104,
+      "versionNonce": 956322263,
+      "isDeleted": true,
+      "boundElements": null,
+      "updated": 1789351381741,
+      "created": 1789351376532,
+      "link": null,
+      "locked": false,
+      "points": [
+        [
+          0,
+          0
+        ]
+      ],
+      "startBinding": {
+        "elementId": "ObddClF2haPIhQymn_iQB",
+        "mode": "inside",
+        "fixedPoint": [
+          0.5016742151372602,
+          0.981111111111089
+        ]
+      },
+      "endBinding": null,
+      "startArrowhead": null,
+      "endArrowhead": "arrow",
+      "elbowed": false
+    },
+    {
+      "id": "ejfKtEnvzZ8c4tAlg34YK",
+      "type": "text",
+      "x": -325.7519124115512,
+      "y": 247.1502836743802,
+      "width": 243.43589623386126,
+      "height": 31.42570281124498,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [
+        "iZVV_pCwac5XgGraM3Wvg"
+      ],
+      "frameId": null,
+      "index": "b6m",
+      "roundness": null,
+      "seed": 2084321977,
+      "version": 592,
+      "versionNonce": 1401622073,
+      "isDeleted": false,
+      "boundElements": null,
+      "updated": 1789351505033,
+      "created": 1789345847538,
+      "link": null,
+      "locked": false,
+      "text": "Estrutura de dados",
+      "fontSize": 25.140562248995984,
+      "baseFontSize": null,
+      "fontFamily": 5,
+      "textAlign": "left",
+      "verticalAlign": "top",
+      "containerId": null,
+      "originalText": "Estrutura de dados",
+      "autoResize": true,
+      "lineHeight": 1.25,
+      "labelPosition": null
+    },
+    {
+      "id": "xQi-qjvGS6eUE9bHLjShX",
+      "type": "text",
+      "x": -344.480158730159,
+      "y": 298.19334480780304,
+      "width": 504.20507812500045,
+      "height": 30.314591700133896,
+      "angle": 0,
+      "strokeColor": "#e03131",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [
+        "iZVV_pCwac5XgGraM3Wvg"
+      ],
+      "frameId": null,
+      "index": "b6n",
+      "roundness": null,
+      "seed": 453200537,
+      "version": 899,
+      "versionNonce": 2002706201,
+      "isDeleted": false,
+      "boundElements": null,
+      "updated": 1789351505033,
+      "created": 1789345879314,
+      "link": null,
+      "locked": false,
+      "text": " (estudo complementar a [Notação Big O])",
+      "fontSize": 24.251673360107116,
+      "baseFontSize": null,
+      "fontFamily": 5,
+      "textAlign": "left",
+      "verticalAlign": "top",
+      "containerId": null,
+      "originalText": " (estudo complementar a [Notação Big O])",
+      "autoResize": true,
+      "lineHeight": 1.25,
+      "labelPosition": null
+    },
+    {
+      "id": "UBGPuN8fbpEuOKS9oQv11",
+      "type": "rectangle",
+      "x": -339.71889143877115,
+      "y": 241.56349206349222,
+      "width": 269.5626952253457,
+      "height": 46.09103078982601,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [
+        "iZVV_pCwac5XgGraM3Wvg"
+      ],
+      "frameId": null,
+      "index": "b6o",
+      "roundness": {
+        "type": 3
+      },
+      "seed": 1985897239,
+      "version": 788,
+      "versionNonce": 373658617,
+      "isDeleted": false,
+      "boundElements": [
+        {
+          "id": "VIB89W5O5L8DYTc2X9i3V",
+          "type": "arrow"
+        },
+        {
+          "id": "1SWBxny2x-260MQuTRdXd",
+          "type": "arrow"
+        }
+      ],
+      "updated": 1789351505033,
+      "created": 1789345894934,
+      "link": null,
+      "locked": false
+    },
+    {
+      "id": "yQG5nEsG3v_bNUCgvRoqb",
+      "type": "text",
+      "x": -331.9936136300954,
+      "y": 343.1381750341453,
+      "width": 322.5532604099248,
+      "height": 24.62841183647164,
+      "angle": 0,
+      "strokeColor": "#e8590c",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [
+        "-aXv7mOUZKApK_NuNeHNz",
+        "iZVV_pCwac5XgGraM3Wvg"
+      ],
+      "frameId": null,
+      "index": "b6p",
+      "roundness": null,
+      "seed": 1841961207,
+      "version": 1917,
+      "versionNonce": 339913945,
+      "isDeleted": false,
+      "boundElements": [],
+      "updated": 1789351505033,
+      "created": 1789346182091,
+      "link": null,
+      "locked": false,
+      "text": "Materiais utilizados para estudos",
+      "fontSize": 19.702729469177314,
+      "baseFontSize": null,
+      "fontFamily": 5,
+      "textAlign": "left",
+      "verticalAlign": "top",
+      "containerId": null,
+      "originalText": "Materiais utilizados para estudos",
+      "autoResize": true,
+      "lineHeight": 1.25,
+      "labelPosition": null
+    },
+    {
+      "id": "Qu2OqgQyYkPv52Ne-k_1d",
+      "type": "rectangle",
+      "x": -337.8134920634922,
+      "y": 336.00793650793656,
+      "width": 337.7777777777777,
+      "height": 32.222222222222285,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [
+        "iZVV_pCwac5XgGraM3Wvg"
+      ],
+      "frameId": null,
+      "index": "b6q",
+      "roundness": {
+        "type": 3
+      },
+      "seed": 918299577,
+      "version": 408,
+      "versionNonce": 149531065,
+      "isDeleted": false,
+      "boundElements": null,
+      "updated": 1789351505033,
+      "created": 1789346205381,
+      "link": null,
+      "locked": false
+    },
+    {
+      "id": "4AlH-RdEb0xgxQfTplsEJ",
+      "type": "rectangle",
+      "x": -340.03571428571456,
+      "y": 289.34126984127,
+      "width": 505.5555555555556,
+      "height": 45.55555555555555,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [
+        "iZVV_pCwac5XgGraM3Wvg"
+      ],
+      "frameId": null,
+      "index": "b6r",
+      "roundness": {
+        "type": 3
+      },
+      "seed": 2107527001,
+      "version": 317,
+      "versionNonce": 1298008729,
+      "isDeleted": false,
+      "boundElements": null,
+      "updated": 1789351505033,
+      "created": 1789346220492,
+      "link": null,
+      "locked": false
+    },
+    {
+      "id": "D2tJk28iG03iUXJYsDOpF",
+      "type": "text",
+      "x": -328.92460317460336,
+      "y": 379.0634920634925,
+      "width": 544.6395263671875,
+      "height": 25,
+      "angle": 0,
+      "strokeColor": "#228be6",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [
+        "iZVV_pCwac5XgGraM3Wvg"
+      ],
+      "frameId": null,
+      "index": "b6s",
+      "roundness": null,
+      "seed": 825275255,
+      "version": 246,
+      "versionNonce": 1246973817,
+      "isDeleted": false,
+      "boundElements": null,
+      "updated": 1789351505033,
+      "created": 1789346289222,
+      "link": null,
+      "locked": false,
+      "text": "https://www.ibm.com/br-pt/think/topics/data-structure",
+      "fontSize": 20,
+      "baseFontSize": null,
+      "fontFamily": 5,
+      "textAlign": "left",
+      "verticalAlign": "top",
+      "containerId": null,
+      "originalText": "https://www.ibm.com/br-pt/think/topics/data-structure",
+      "autoResize": true,
+      "lineHeight": 1.25,
+      "labelPosition": null
+    },
+    {
+      "id": "yfVzcR-jn-QRrSiANhVwa",
+      "type": "rectangle",
+      "x": -344.480158730159,
+      "y": 371.5634920634923,
+      "width": 571.111111111111,
+      "height": 41.11111111111113,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [
+        "iZVV_pCwac5XgGraM3Wvg"
+      ],
+      "frameId": null,
+      "index": "b6t",
+      "roundness": {
+        "type": 3
+      },
+      "seed": 951665239,
+      "version": 491,
+      "versionNonce": 101513305,
+      "isDeleted": false,
+      "boundElements": [],
+      "updated": 1789351505033,
+      "created": 1789346308108,
+      "link": null,
+      "locked": false
+    },
+    {
+      "id": "1SWBxny2x-260MQuTRdXd",
+      "type": "arrow",
+      "x": -345.71889143877115,
+      "y": 267.7992192551264,
+      "width": 74.31682284694341,
+      "height": 240.7812137805882,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [
+        "iZVV_pCwac5XgGraM3Wvg"
+      ],
+      "frameId": null,
+      "index": "b6u",
+      "roundness": {
+        "type": 2
+      },
+      "seed": 1216739257,
+      "version": 715,
+      "versionNonce": 1918797113,
+      "isDeleted": false,
+      "boundElements": null,
+      "updated": 1789351505033,
+      "created": 1789349640497,
+      "link": null,
+      "locked": false,
+      "points": [
+        [
+          0,
+          0
+        ],
+        [
+          -69.87237840249901,
+          37.09760614169909
+        ],
+        [
+          -74.31682284694341,
+          220.4309394750324
+        ],
+        [
+          -9.20571173583221,
+          240.7812137805882
+        ]
+      ],
+      "startBinding": {
+        "elementId": "UBGPuN8fbpEuOKS9oQv11",
+        "mode": "orbit",
+        "fixedPoint": [
+          0,
+          0.5001
+        ]
+      },
+      "endBinding": {
+        "elementId": "udava20pQ28x7Voq1tQ4_",
+        "mode": "orbit",
+        "fixedPoint": [
+          0,
+          0.5001
+        ]
+      },
+      "startArrowhead": null,
+      "endArrowhead": "arrow",
+      "elbowed": false,
+      "moveMidPointsWithElement": false
+    },
+    {
+      "id": "N6h9y3EHKUZSbs3pl450x",
+      "type": "text",
+      "x": 236.37426957962634,
+      "y": 250.73676794435744,
+      "width": 618.8501708481343,
+      "height": 28.844927394034563,
+      "angle": 0,
+      "strokeColor": "#e03131",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [
+        "iZVV_pCwac5XgGraM3Wvg"
+      ],
+      "frameId": null,
+      "index": "b6v",
+      "roundness": null,
+      "seed": 1803812857,
+      "version": 584,
+      "versionNonce": 2058057241,
+      "isDeleted": false,
+      "boundElements": null,
+      "updated": 1789351505033,
+      "created": 1789350275580,
+      "link": null,
+      "locked": false,
+      "text": "Material de estudos incompleto, Estudo em andamento.",
+      "fontSize": 23.075941915227652,
+      "baseFontSize": null,
+      "fontFamily": 5,
+      "textAlign": "left",
+      "verticalAlign": "top",
+      "containerId": null,
+      "originalText": "Material de estudos incompleto, Estudo em andamento.",
+      "autoResize": true,
+      "lineHeight": 1.25,
+      "labelPosition": null
+    },
+    {
+      "id": "Ji_a87Gm7XNdRPRxdxBJi",
+      "type": "rectangle",
+      "x": 229.96428571428532,
+      "y": 242.08328972614703,
+      "width": 634.2559523809531,
+      "height": 41.02389673818247,
+      "angle": 0,
+      "strokeColor": "#e03131",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [
+        "iZVV_pCwac5XgGraM3Wvg"
+      ],
+      "frameId": null,
+      "index": "b6w",
+      "roundness": {
+        "type": 3
+      },
+      "seed": 706649177,
+      "version": 681,
+      "versionNonce": 1374112505,
+      "isDeleted": false,
+      "boundElements": [
+        {
+          "id": "VIB89W5O5L8DYTc2X9i3V",
+          "type": "arrow"
+        }
+      ],
+      "updated": 1789351505033,
+      "created": 1789350300809,
+      "link": null,
+      "locked": false
+    },
+    {
+      "id": "VIB89W5O5L8DYTc2X9i3V",
+      "type": "arrow",
+      "x": -64.15619621342546,
+      "y": 264.5733472123821,
+      "width": 288.1204819277108,
+      "height": 1.93373737836788,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [
+        "iZVV_pCwac5XgGraM3Wvg"
+      ],
+      "frameId": null,
+      "index": "b6x",
+      "roundness": {
+        "type": 2
+      },
+      "seed": 367924089,
+      "version": 203,
+      "versionNonce": 9798617,
+      "isDeleted": false,
+      "boundElements": null,
+      "updated": 1789351505033,
+      "created": 1789350323170,
+      "link": null,
+      "locked": false,
+      "points": [
+        [
+          0,
+          0
+        ],
+        [
+          288.1204819277108,
+          -1.93373737836788
+        ]
+      ],
+      "startBinding": {
+        "elementId": "UBGPuN8fbpEuOKS9oQv11",
+        "mode": "orbit",
+        "fixedPoint": [
+          1,
+          0.5001
+        ]
+      },
+      "endBinding": {
+        "elementId": "Ji_a87Gm7XNdRPRxdxBJi",
+        "mode": "orbit",
+        "fixedPoint": [
+          0,
+          0.5001
+        ]
+      },
+      "startArrowhead": null,
+      "endArrowhead": "arrow",
+      "elbowed": false,
+      "moveMidPointsWithElement": false
+    },
+    {
+      "id": "PaTKoIGa9zi-UX6DZRmnH",
+      "type": "rectangle",
+      "x": -363.3690476190483,
+      "y": 872.6746031746031,
+      "width": 901.1111111111113,
+      "height": 167.77777777777777,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [
+        "iZVV_pCwac5XgGraM3Wvg"
+      ],
+      "frameId": null,
+      "index": "b6y",
+      "roundness": {
+        "type": 3
+      },
+      "seed": 770918361,
+      "version": 409,
+      "versionNonce": 852074681,
+      "isDeleted": false,
+      "boundElements": null,
+      "updated": 1789351505033,
+      "created": 1789349927520,
+      "link": null,
+      "locked": false
+    },
+    {
+      "id": "2cmLxrU2528yDhLnzCndb",
+      "type": "text",
+      "x": -343.8134920634923,
+      "y": 495.1190476190478,
+      "width": 381.4556579589844,
+      "height": 29.999999999999982,
+      "angle": 0,
+      "strokeColor": "#2f9e44",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [
+        "iZVV_pCwac5XgGraM3Wvg"
+      ],
+      "frameId": null,
+      "index": "b6z",
+      "roundness": null,
+      "seed": 1030204023,
+      "version": 631,
+      "versionNonce": 1176969625,
+      "isDeleted": false,
+      "boundElements": [],
+      "updated": 1789351505033,
+      "created": 1789349491445,
+      "link": null,
+      "locked": false,
+      "text": "Oque e uma estrutura de dados?",
+      "fontSize": 23.999999999999986,
+      "baseFontSize": null,
+      "fontFamily": 5,
+      "textAlign": "left",
+      "verticalAlign": "top",
+      "containerId": null,
+      "originalText": "Oque e uma estrutura de dados?",
+      "autoResize": true,
+      "lineHeight": 1.25,
+      "labelPosition": null
+    },
+    {
+      "id": "udava20pQ28x7Voq1tQ4_",
+      "type": "rectangle",
+      "x": -348.92460317460336,
+      "y": 493.78571428571456,
+      "width": 394.66666666666646,
+      "height": 33.33333333333337,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [
+        "iZVV_pCwac5XgGraM3Wvg"
+      ],
+      "frameId": null,
+      "index": "b70",
+      "roundness": {
+        "type": 3
+      },
+      "seed": 73523929,
+      "version": 532,
+      "versionNonce": 400655993,
+      "isDeleted": false,
+      "boundElements": [
+        {
+          "id": "1SWBxny2x-260MQuTRdXd",
+          "type": "arrow"
+        }
+      ],
+      "updated": 1789351505033,
+      "created": 1789349499240,
+      "link": null,
+      "locked": false
+    },
+    {
+      "id": "Sc5kx6zpfKeGNo_Eu979K",
+      "type": "text",
+      "x": -343.36904761904776,
+      "y": 536.8412698412702,
+      "width": 827.1739718967026,
+      "height": 141.1111111111113,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [
+        "iZVV_pCwac5XgGraM3Wvg"
+      ],
+      "frameId": null,
+      "index": "b71",
+      "roundness": null,
+      "seed": 637064921,
+      "version": 615,
+      "versionNonce": 314330969,
+      "isDeleted": false,
+      "boundElements": null,
+      "updated": 1789351505033,
+      "created": 1789349535039,
+      "link": null,
+      "locked": false,
+      "text": "Uma estrutura de dados e uma maneira de formatar dados, \npara que eles possam ser utilizados por programa de computador ou sistemas, \nAs estruturas de dados são fundamentais, pois dão forma a pontos de dados abstratos, \npermitindo que os usuários e sistemas trabalhem e armazenem dados de forma eficiente.\nQuando trabalhamos com estrutura de dados trabalhamos com dados primitivos, \ncomo Números inteiros ou real, caracteres e booleanos em um formato coesivo.",
+      "fontSize": 18.814814814814838,
+      "baseFontSize": null,
+      "fontFamily": 5,
+      "textAlign": "left",
+      "verticalAlign": "top",
+      "containerId": null,
+      "originalText": "Uma estrutura de dados e uma maneira de formatar dados, \npara que eles possam ser utilizados por programa de computador ou sistemas, \nAs estruturas de dados são fundamentais, pois dão forma a pontos de dados abstratos, \npermitindo que os usuários e sistemas trabalhem e armazenem dados de forma eficiente.\nQuando trabalhamos com estrutura de dados trabalhamos com dados primitivos, \ncomo Números inteiros ou real, caracteres e booleanos em um formato coesivo.",
+      "autoResize": true,
+      "lineHeight": 1.25,
+      "labelPosition": null
+    },
+    {
+      "id": "XywoACKegWXu3HYPtCqrX",
+      "type": "rectangle",
+      "x": -352.2579365079367,
+      "y": 529.34126984127,
+      "width": 835.5555555555555,
+      "height": 156.66666666666663,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [
+        "iZVV_pCwac5XgGraM3Wvg"
+      ],
+      "frameId": null,
+      "index": "b72",
+      "roundness": {
+        "type": 3
+      },
+      "seed": 962584057,
+      "version": 637,
+      "versionNonce": 2097871929,
+      "isDeleted": false,
+      "boundElements": null,
+      "updated": 1789351505033,
+      "created": 1789349569610,
+      "link": null,
+      "locked": false
+    },
+    {
+      "id": "bI-UVcY3VnMOV4PwbBkOR",
+      "type": "text",
+      "x": -345.55223446800613,
+      "y": 690.1746031746034,
+      "width": 457.69970703125,
+      "height": 25,
+      "angle": 0,
+      "strokeColor": "#2f9e44",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [
+        "iZVV_pCwac5XgGraM3Wvg"
+      ],
+      "frameId": null,
+      "index": "b73",
+      "roundness": null,
+      "seed": 1084958041,
+      "version": 607,
+      "versionNonce": 112266521,
+      "isDeleted": false,
+      "boundElements": null,
+      "updated": 1789351505033,
+      "created": 1789349615046,
+      "link": null,
+      "locked": false,
+      "text": "Por que estruturas de dados são importantes?",
+      "fontSize": 20,
+      "baseFontSize": null,
+      "fontFamily": 5,
+      "textAlign": "left",
+      "verticalAlign": "top",
+      "containerId": null,
+      "originalText": "Por que estruturas de dados são importantes?",
+      "autoResize": true,
+      "lineHeight": 1.25,
+      "labelPosition": null
+    },
+    {
+      "id": "IqeV5XrYR9bHOHQ_4E0kg",
+      "type": "rectangle",
+      "x": -350.03571428571456,
+      "y": 688.2301587301588,
+      "width": 467.7777777777777,
+      "height": 33.33333333333326,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [
+        "iZVV_pCwac5XgGraM3Wvg"
+      ],
+      "frameId": null,
+      "index": "b74",
+      "roundness": {
+        "type": 3
+      },
+      "seed": 160816057,
+      "version": 539,
+      "versionNonce": 388104697,
+      "isDeleted": false,
+      "boundElements": null,
+      "updated": 1789351505033,
+      "created": 1789349670064,
+      "link": null,
+      "locked": false
+    },
+    {
+      "id": "RA8SjZsyKT_YMCc9Y4jpg",
+      "type": "text",
+      "x": -352.25793650793685,
+      "y": 729.063492063492,
+      "width": 814.6178623743384,
+      "height": 109.81481481481512,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [
+        "iZVV_pCwac5XgGraM3Wvg"
+      ],
+      "frameId": null,
+      "index": "b75",
+      "roundness": null,
+      "seed": 325921399,
+      "version": 857,
+      "versionNonce": 1533106905,
+      "isDeleted": false,
+      "boundElements": null,
+      "updated": 1789351505033,
+      "created": 1789349704693,
+      "link": null,
+      "locked": false,
+      "text": "As estruturas de dados são importantes pois facilitam o processamento de inúmeros dados\ngrandes e complexos, \nao organizar logicamente os elementos de dados, as estruturas aumentam a eficiência do\ncódigo e torna o código mais legível e pratico.\n",
+      "fontSize": 17.570370370370416,
+      "baseFontSize": null,
+      "fontFamily": 5,
+      "textAlign": "left",
+      "verticalAlign": "top",
+      "containerId": null,
+      "originalText": "As estruturas de dados são importantes pois facilitam o processamento de inúmeros dados grandes e complexos, \nao organizar logicamente os elementos de dados, as estruturas aumentam a eficiência do código e torna o código mais legível e pratico.\n",
+      "autoResize": false,
+      "lineHeight": 1.25,
+      "labelPosition": null
+    },
+    {
+      "id": "cY4YZ4FfNx117anUXyzDk",
+      "type": "rectangle",
+      "x": -357.8134920634923,
+      "y": 723.7857142857142,
+      "width": 794.4444444444443,
+      "height": 101.11111111111157,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [
+        "iZVV_pCwac5XgGraM3Wvg"
+      ],
+      "frameId": null,
+      "index": "b76",
+      "roundness": {
+        "type": 3
+      },
+      "seed": 1083935289,
+      "version": 667,
+      "versionNonce": 335714233,
+      "isDeleted": false,
+      "boundElements": null,
+      "updated": 1789351505033,
+      "created": 1789349755103,
+      "link": null,
+      "locked": false
+    },
+    {
+      "id": "5IqagEGRjlZYkM1dsfH_A",
+      "type": "text",
+      "x": -343.03792002844455,
+      "y": 833.5079365079364,
+      "width": 61.87817314995689,
+      "height": 37.2222222222224,
+      "angle": 0,
+      "strokeColor": "#2f9e44",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [
+        "iZVV_pCwac5XgGraM3Wvg"
+      ],
+      "frameId": null,
+      "index": "b77",
+      "roundness": null,
+      "seed": 1995436665,
+      "version": 360,
+      "versionNonce": 589904025,
+      "isDeleted": false,
+      "boundElements": null,
+      "updated": 1789351505033,
+      "created": 1789349809368,
+      "link": null,
+      "locked": false,
+      "text": "DSA",
+      "fontSize": 29.77777777777792,
+      "baseFontSize": null,
+      "fontFamily": 5,
+      "textAlign": "left",
+      "verticalAlign": "top",
+      "containerId": null,
+      "originalText": "DSA",
+      "autoResize": true,
+      "lineHeight": 1.25,
+      "labelPosition": null
+    },
+    {
+      "id": "LD800H_7A9Jxrfyz__eKg",
+      "type": "rectangle",
+      "x": -351.14682539682576,
+      "y": 829.3412698412696,
+      "width": 83.33333333333337,
+      "height": 41.111111111111086,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [
+        "iZVV_pCwac5XgGraM3Wvg"
+      ],
+      "frameId": null,
+      "index": "b78",
+      "roundness": {
+        "type": 3
+      },
+      "seed": 1265780761,
+      "version": 377,
+      "versionNonce": 1518910841,
+      "isDeleted": false,
+      "boundElements": [
+        {
+          "id": "Lwv_NdXRS8eqFyJhC218a",
+          "type": "arrow"
+        }
+      ],
+      "updated": 1789351505033,
+      "created": 1789349825331,
+      "link": null,
+      "locked": false
+    },
+    {
+      "id": "VgQVZPxsZUQUS0-WMgMbW",
+      "type": "text",
+      "x": -354.97312748018385,
+      "y": 877.952380952381,
+      "width": 891.0581814236364,
+      "height": 159.44444444444505,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [
+        "iZVV_pCwac5XgGraM3Wvg"
+      ],
+      "frameId": null,
+      "index": "b79",
+      "roundness": null,
+      "seed": 1071364727,
+      "version": 1622,
+      "versionNonce": 157591129,
+      "isDeleted": false,
+      "boundElements": null,
+      "updated": 1789351505033,
+      "created": 1789349875912,
+      "link": null,
+      "locked": false,
+      "text": "São estruturas utilizadas para melhorar a velocidade e a força dos algoritmos, que são conjuntos\nde instruções, Na programação essa técnica e conhecida como (DSA) ou Estruturas de dados e\nalgoritmos, quando trabalhamos com essa técnica acabamos pensando em varias questões\ndiferentes, como complexidade de tempo e complexidade de medida, quando falamos de complexidade\nde tempo, nós referimos ao quanto tempo leva para um algoritmo completar uma tarefa com base na\nquantidade de entrada que ele teve, e quando falamos de complexidade de medida, estamos nos\nreferindo a quanto de memorio o algoritmo usa com base na quantidade de entrada.",
+      "fontSize": 18.222222222222292,
+      "baseFontSize": null,
+      "fontFamily": 5,
+      "textAlign": "left",
+      "verticalAlign": "top",
+      "containerId": null,
+      "originalText": "São estruturas utilizadas para melhorar a velocidade e a força dos algoritmos, que são conjuntos de instruções, Na programação essa técnica e conhecida como (DSA) ou Estruturas de dados e algoritmos, quando trabalhamos com essa técnica acabamos pensando em varias questões diferentes, como complexidade de tempo e complexidade de medida, quando falamos de complexidade de tempo, nós referimos ao quanto tempo leva para um algoritmo completar uma tarefa com base na quantidade de entrada que ele teve, e quando falamos de complexidade de medida, estamos nos referindo a quanto de memorio o algoritmo usa com base na quantidade de entrada.",
+      "autoResize": false,
+      "lineHeight": 1.25,
+      "labelPosition": null
+    },
+    {
+      "id": "6gSVEs72-Trp84HHqf7n9",
+      "type": "text",
+      "x": -198.92460317460348,
+      "y": 835.7301587301585,
+      "width": 142.679931640625,
+      "height": 25,
+      "angle": 0,
+      "strokeColor": "#e03131",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [
+        "iZVV_pCwac5XgGraM3Wvg"
+      ],
+      "frameId": null,
+      "index": "b7A",
+      "roundness": null,
+      "seed": 486047289,
+      "version": 349,
+      "versionNonce": 1250980665,
+      "isDeleted": false,
+      "boundElements": [
+        {
+          "id": "Lwv_NdXRS8eqFyJhC218a",
+          "type": "arrow"
+        }
+      ],
+      "updated": 1789351505033,
+      "created": 1789349968984,
+      "link": null,
+      "locked": false,
+      "text": "Notação Big O",
+      "fontSize": 20,
+      "baseFontSize": null,
+      "fontFamily": 5,
+      "textAlign": "left",
+      "verticalAlign": "top",
+      "containerId": null,
+      "originalText": "Notação Big O",
+      "autoResize": true,
+      "lineHeight": 1.25,
+      "labelPosition": null
+    },
+    {
+      "id": "Lwv_NdXRS8eqFyJhC218a",
+      "type": "arrow",
+      "x": -261.8134920634924,
+      "y": 849.7556348950332,
+      "width": 56.888888888888914,
+      "height": 1.3776745519712676,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [
+        "iZVV_pCwac5XgGraM3Wvg"
+      ],
+      "frameId": null,
+      "index": "b7B",
+      "roundness": {
+        "type": 2
+      },
+      "seed": 619026871,
+      "version": 200,
+      "versionNonce": 309306393,
+      "isDeleted": false,
+      "boundElements": null,
+      "updated": 1789351505033,
+      "created": 1789350003305,
+      "link": null,
+      "locked": false,
+      "points": [
+        [
+          0,
+          0
+        ],
+        [
+          56.888888888888914,
+          -1.3776745519712676
+        ]
+      ],
+      "startBinding": {
+        "elementId": "LD800H_7A9Jxrfyz__eKg",
+        "mode": "orbit",
+        "fixedPoint": [
+          1,
+          0.5001
+        ]
+      },
+      "endBinding": {
+        "elementId": "6gSVEs72-Trp84HHqf7n9",
+        "mode": "orbit",
+        "fixedPoint": [
+          0,
+          0.5001
+        ]
+      },
+      "startArrowhead": null,
+      "endArrowhead": "arrow",
+      "elbowed": false,
+      "moveMidPointsWithElement": false
+    },
+    {
+      "id": "ZWbq8ihPANJvjMQtWRaZV",
+      "type": "text",
+      "x": -353.3690476190476,
+      "y": 1050.1746031746036,
+      "width": 883.6407986111099,
+      "height": 104.44444444444439,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [
+        "iZVV_pCwac5XgGraM3Wvg"
+      ],
+      "frameId": null,
+      "index": "b7C",
+      "roundness": null,
+      "seed": 184177143,
+      "version": 1073,
+      "versionNonce": 2096478457,
+      "isDeleted": false,
+      "boundElements": null,
+      "updated": 1789351505033,
+      "created": 1789350020020,
+      "link": null,
+      "locked": false,
+      "text": "Para trabalhar com isso usamos um estudo matemático conhecido com (Notação Big O)\nonde conseguimos categorizar estrutura de dados com base no tempo e na medida, \ne realizar cálculos para descobrir isso de forma mais exata.\n",
+      "fontSize": 20.88888888888887,
+      "baseFontSize": null,
+      "fontFamily": 5,
+      "textAlign": "left",
+      "verticalAlign": "top",
+      "containerId": null,
+      "originalText": "Para trabalhar com isso usamos um estudo matemático conhecido com (Notação Big O) onde conseguimos categorizar estrutura de dados com base no tempo e na medida, \ne realizar cálculos para descobrir isso de forma mais exata.\n",
+      "autoResize": false,
+      "lineHeight": 1.25,
+      "labelPosition": null
+    },
+    {
+      "id": "KvZLprhGh99xEWA3ftNFJ",
+      "type": "rectangle",
+      "x": -358.92460317460336,
+      "y": 1042.6746031746031,
+      "width": 893.3333333333331,
+      "height": 89.99999999999999,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [
+        "iZVV_pCwac5XgGraM3Wvg"
+      ],
+      "frameId": null,
+      "index": "b7D",
+      "roundness": {
+        "type": 3
+      },
+      "seed": 478607479,
+      "version": 438,
+      "versionNonce": 1537618393,
+      "isDeleted": false,
+      "boundElements": null,
+      "updated": 1789351505033,
+      "created": 1789350066657,
+      "link": null,
+      "locked": false
+    },
+    {
+      "id": "3V7tg9RQxW30hFoL7mZ1V",
+      "type": "text",
+      "x": -351.86864210404394,
+      "y": 1136.1052601089095,
+      "width": 472.9931253029474,
+      "height": 81.56934306569329,
+      "angle": 0,
+      "strokeColor": "#2f9e44",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [
+        "iZVV_pCwac5XgGraM3Wvg"
+      ],
+      "frameId": null,
+      "index": "b7E",
+      "roundness": null,
+      "seed": 717713335,
+      "version": 267,
+      "versionNonce": 60067513,
+      "isDeleted": false,
+      "boundElements": null,
+      "updated": 1789351505033,
+      "created": 1789350340139,
+      "link": null,
+      "locked": false,
+      "text": "Como categorizamos as estrutura de dados?\n\n",
+      "fontSize": 21.751824817518212,
+      "baseFontSize": null,
+      "fontFamily": 5,
+      "textAlign": "left",
+      "verticalAlign": "top",
+      "containerId": null,
+      "originalText": "Como categorizamos as estrutura de dados?\n\n",
+      "autoResize": true,
+      "lineHeight": 1.25,
+      "labelPosition": null
+    },
+    {
+      "id": "aPBK2eQnl_RBS_EPR26hx",
+      "type": "rectangle",
+      "x": -356.70238095238125,
+      "y": 1134.8968253968253,
+      "width": 482.1654501216536,
+      "height": 33.83617193836163,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [
+        "iZVV_pCwac5XgGraM3Wvg"
+      ],
+      "frameId": null,
+      "index": "b7F",
+      "roundness": {
+        "type": 3
+      },
+      "seed": 1812873111,
+      "version": 285,
+      "versionNonce": 1533300633,
+      "isDeleted": false,
+      "boundElements": null,
+      "updated": 1789351505033,
+      "created": 1789350347165,
+      "link": null,
+      "locked": false
+    },
+    {
+      "id": "mGP7LyLBCl819B0vF162u",
+      "type": "text",
+      "x": -357.8134920634922,
+      "y": 1177.9523809523807,
+      "width": 705.119384765625,
+      "height": 50,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [
+        "iZVV_pCwac5XgGraM3Wvg"
+      ],
+      "frameId": null,
+      "index": "b7G",
+      "roundness": null,
+      "seed": 2038213561,
+      "version": 285,
+      "versionNonce": 692647033,
+      "isDeleted": false,
+      "boundElements": null,
+      "updated": 1789351505033,
+      "created": 1789350378180,
+      "link": null,
+      "locked": false,
+      "text": "As estruturas de dados possui duas categorias, Lineares x Não lineares.\n",
+      "fontSize": 20,
+      "baseFontSize": null,
+      "fontFamily": 5,
+      "textAlign": "left",
+      "verticalAlign": "top",
+      "containerId": null,
+      "originalText": "As estruturas de dados possui duas categorias, Lineares x Não lineares.\n",
+      "autoResize": true,
+      "lineHeight": 1.25,
+      "labelPosition": null
+    },
+    {
+      "id": "ObddClF2haPIhQymn_iQB",
+      "type": "text",
+      "x": -364.4801587301589,
+      "y": 1228.3690476190468,
+      "width": 972.5767279730906,
+      "height": 125.00000000000007,
+      "angle": 0,
+      "strokeColor": "#9c36b5",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [
+        "iZVV_pCwac5XgGraM3Wvg"
+      ],
+      "frameId": null,
+      "index": "b7H",
+      "roundness": null,
+      "seed": 1968405463,
+      "version": 833,
+      "versionNonce": 554040665,
+      "isDeleted": false,
+      "boundElements": [
+        {
+          "id": "NkPcIP4khktx_Jz63P41k",
+          "type": "arrow"
+        },
+        {
+          "id": "hJ0owjEfWdFOkLxFLSkJn",
+          "type": "arrow"
+        },
+        {
+          "id": "7QgzxX1bnkWKcNQ2-Zw0e",
+          "type": "arrow"
+        },
+        {
+          "id": "Ip4i5rdttzlM3lPPyR0Zk",
+          "type": "arrow"
+        },
+        {
+          "id": "-gucJq8CyeNmu8eVJQu3K",
+          "type": "arrow"
+        }
+      ],
+      "updated": 1789351505033,
+      "created": 1789350397647,
+      "link": null,
+      "locked": false,
+      "text": "Não lineares, não seguimos a mesma logica sequencial e linear, trabalhamos com pontos de dados que\npodem ser ordenados hirearquicamente ou conectados em uma rede, \nComo não estão conectados uns aos outros em uma unica linha, os elementos não podem ser\npercorridos e acessados em uma unica execução, como acontece em uma estrutura de dados linear\n",
+      "fontSize": 20.00000000000002,
+      "baseFontSize": null,
+      "fontFamily": 5,
+      "textAlign": "left",
+      "verticalAlign": "top",
+      "containerId": null,
+      "originalText": "Não lineares, não seguimos a mesma logica sequencial e linear, trabalhamos com pontos de dados que podem ser ordenados hirearquicamente ou conectados em uma rede, \nComo não estão conectados uns aos outros em uma unica linha, os elementos não podem ser percorridos e acessados em uma unica execução, como acontece em uma estrutura de dados linear\n",
+      "autoResize": false,
+      "lineHeight": 1.25,
+      "labelPosition": null
+    },
+    {
+      "id": "TVbbNPp3Q_0hc4OHtGZt8",
+      "type": "rectangle",
+      "x": -368.92460317460336,
+      "y": 1170.452380952381,
+      "width": 978.8888888888888,
+      "height": 165.5555555555552,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [
+        "iZVV_pCwac5XgGraM3Wvg"
+      ],
+      "frameId": null,
+      "index": "b7I",
+      "roundness": {
+        "type": 3
+      },
+      "seed": 596296631,
+      "version": 378,
+      "versionNonce": 837741113,
+      "isDeleted": false,
+      "boundElements": [],
+      "updated": 1789351505033,
+      "created": 1789350433047,
+      "link": null,
+      "locked": false
+    },
+    {
+      "id": "L1ByaHbap-_Z60aidDotV",
+      "type": "text",
+      "x": -348.0912698412716,
+      "y": 1427.9523809523794,
+      "width": 933.463459916872,
+      "height": 170.33333333333348,
+      "angle": 0,
+      "strokeColor": "#9c36b5",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [
+        "iZVV_pCwac5XgGraM3Wvg"
+      ],
+      "frameId": null,
+      "index": "b7J",
+      "roundness": null,
+      "seed": 342455385,
+      "version": 698,
+      "versionNonce": 350698265,
+      "isDeleted": false,
+      "boundElements": null,
+      "updated": 1789351505033,
+      "created": 1789351006507,
+      "link": null,
+      "locked": false,
+      "text": "1 - Tabelas Hash (Hash Tables): Armazenam dados em pares de chave e valor para buscas rápidas.\n\n2 - Árvores (Trees): Organizam os dados em formato hierárquico, como uma árvore genealógica\n(ex: árvores binárias).\n\n3 - Grafos (Graphs): Conectam pontos (vértices) por meio de linhas (arestas), muito usados em\nredes sociais e rotas de mapas.",
+      "fontSize": 19.466666666666683,
+      "baseFontSize": null,
+      "fontFamily": 5,
+      "textAlign": "left",
+      "verticalAlign": "top",
+      "containerId": null,
+      "originalText": "1 - Tabelas Hash (Hash Tables): Armazenam dados em pares de chave e valor para buscas rápidas.\n\n2 - Árvores (Trees): Organizam os dados em formato hierárquico, como uma árvore genealógica (ex: árvores binárias).\n\n3 - Grafos (Graphs): Conectam pontos (vértices) por meio de linhas (arestas), muito usados em redes sociais e rotas de mapas.",
+      "autoResize": false,
+      "lineHeight": 1.25,
+      "labelPosition": null
+    },
+    {
+      "id": "F-_NGqFiHaqMbcClcqeUl",
+      "type": "rectangle",
+      "x": -357.5357142857161,
+      "y": 1421.2857142857124,
+      "width": 938.6111111111111,
+      "height": 187.08333333333317,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [
+        "iZVV_pCwac5XgGraM3Wvg"
+      ],
+      "frameId": null,
+      "index": "b7K",
+      "roundness": {
+        "type": 3
+      },
+      "seed": 1033410617,
+      "version": 407,
+      "versionNonce": 442658809,
+      "isDeleted": false,
+      "boundElements": [
+        {
+          "id": "-gucJq8CyeNmu8eVJQu3K",
+          "type": "arrow"
+        }
+      ],
+      "updated": 1789351505033,
+      "created": 1789351055394,
+      "link": null,
+      "locked": false
+    },
+    {
+      "id": "1qWeWwIoG4j3O63HTq0OX",
+      "type": "text",
+      "x": 739.2698412698392,
+      "y": 1176.702380952377,
+      "width": 1008.8303493923612,
+      "height": 300,
+      "angle": 0,
+      "strokeColor": "#6741d9",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [
+        "iZVV_pCwac5XgGraM3Wvg"
+      ],
+      "frameId": null,
+      "index": "b7L",
+      "roundness": null,
+      "seed": 99700281,
+      "version": 1140,
+      "versionNonce": 946079961,
+      "isDeleted": false,
+      "boundElements": null,
+      "updated": 1789351505033,
+      "created": 1789350988151,
+      "link": null,
+      "locked": false,
+      "text": "1 - Arrays (Matriz/Vetores):\nArmazenam elementos do mesmo tipo em sequencia com tamanho fixo (varia de linguagem para linguagem\na forma de trabalhar)\n\n2 - Listas Ligadas (Linked Lists):\nCada item aponta para a localização do próximo na memoria, permitindo inserções e remoções fáceis\n\n3 - Pilhas (Stacks):\nSeguem o principio LIFO (Last In, First Out), Onde o ultimo elemento a entrar e o primeiro a sair\n\n4 - Filas (Queues):\nSegue o principio FIFO (First In, First Out), Onde o primeiro a entrar e o primeiro a sair",
+      "fontSize": 20,
+      "baseFontSize": null,
+      "fontFamily": 5,
+      "textAlign": "left",
+      "verticalAlign": "top",
+      "containerId": null,
+      "originalText": "1 - Arrays (Matriz/Vetores):\nArmazenam elementos do mesmo tipo em sequencia com tamanho fixo (varia de linguagem para linguagem a forma de trabalhar)\n\n2 - Listas Ligadas (Linked Lists):\nCada item aponta para a localização do próximo na memoria, permitindo inserções e remoções fáceis\n\n3 - Pilhas (Stacks):\nSeguem o principio LIFO (Last In, First Out), Onde o ultimo elemento a entrar e o primeiro a sair\n\n4 - Filas (Queues):\nSegue o principio FIFO (First In, First Out), Onde o primeiro a entrar e o primeiro a sair",
+      "autoResize": false,
+      "lineHeight": 1.25,
+      "labelPosition": null
+    },
+    {
+      "id": "c2mTg1NKKDi1D-LpujRbc",
+      "type": "rectangle",
+      "x": 728.1587301587283,
+      "y": 1170.3134920634905,
+      "width": 1018.8888888888887,
+      "height": 324.44444444444457,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [
+        "iZVV_pCwac5XgGraM3Wvg"
+      ],
+      "frameId": null,
+      "index": "b7M",
+      "roundness": {
+        "type": 3
+      },
+      "seed": 1747998487,
+      "version": 939,
+      "versionNonce": 1484752313,
+      "isDeleted": false,
+      "boundElements": [
+        {
+          "id": "16xPy-vCV4GIxhVHXVAvx",
+          "type": "arrow"
+        }
+      ],
+      "updated": 1789351505033,
+      "created": 1789351082770,
+      "link": null,
+      "locked": false
+    },
+    {
+      "id": "_NZ-meEO0III58o--e44L",
+      "type": "text",
+      "x": -364.8968253968272,
+      "y": 1201.4246031746006,
+      "width": 953.9392700195312,
+      "height": 25.000000000000004,
+      "angle": 0,
+      "strokeColor": "#6741d9",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [
+        "iZVV_pCwac5XgGraM3Wvg"
+      ],
+      "frameId": null,
+      "index": "b7N",
+      "roundness": null,
+      "seed": 1456771863,
+      "version": 230,
+      "versionNonce": 1708680857,
+      "isDeleted": false,
+      "boundElements": [
+        {
+          "id": "16xPy-vCV4GIxhVHXVAvx",
+          "type": "arrow"
+        }
+      ],
+      "updated": 1789351505033,
+      "created": 1789351120291,
+      "link": null,
+      "locked": false,
+      "text": "Lineares são aqueles que organizar os elementos de forma sequencial, ou melhor, um trás do outro.",
+      "fontSize": 20.000000000000004,
+      "baseFontSize": null,
+      "fontFamily": 5,
+      "textAlign": "left",
+      "verticalAlign": "top",
+      "containerId": null,
+      "originalText": "Lineares são aqueles que organizar os elementos de forma sequencial, ou melhor, um trás do outro.",
+      "autoResize": true,
+      "lineHeight": 1.25,
+      "labelPosition": null
+    },
+    {
+      "id": "16xPy-vCV4GIxhVHXVAvx",
+      "type": "arrow",
+      "x": 595.0424446227041,
+      "y": 1214.4796165699015,
+      "width": 127.11628553602418,
+      "height": 117.17830588118568,
+      "angle": 0,
+      "strokeColor": "#2f9e44",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [
+        "iZVV_pCwac5XgGraM3Wvg"
+      ],
+      "frameId": null,
+      "index": "b7O",
+      "roundness": {
+        "type": 2
+      },
+      "seed": 1397238777,
+      "version": 261,
+      "versionNonce": 455224185,
+      "isDeleted": false,
+      "boundElements": null,
+      "updated": 1789351505033,
+      "created": 1789351314906,
+      "link": null,
+      "locked": false,
+      "points": [
+        [
+          0,
+          0
+        ],
+        [
+          70.89406331380178,
+          6.528319938031473
+        ],
+        [
+          73.39406331380178,
+          109.02831993803147
+        ],
+        [
+          127.11628553602418,
+          117.17830588118568
+        ]
+      ],
+      "startBinding": {
+        "elementId": "_NZ-meEO0III58o--e44L",
+        "mode": "orbit",
+        "fixedPoint": [
+          1,
+          0.5001
+        ]
+      },
+      "endBinding": {
+        "elementId": "c2mTg1NKKDi1D-LpujRbc",
+        "mode": "orbit",
+        "fixedPoint": [
+          0,
+          0.5001
+        ]
+      },
+      "startArrowhead": null,
+      "endArrowhead": "arrow",
+      "elbowed": false
+    },
+    {
+      "id": "-gucJq8CyeNmu8eVJQu3K",
+      "type": "arrow",
+      "x": -370.4801587301589,
+      "y": 1292.8695695970682,
+      "width": 80.527777777778,
+      "height": 220.6702464944226,
+      "angle": 0,
+      "strokeColor": "#2f9e44",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [
+        "iZVV_pCwac5XgGraM3Wvg"
+      ],
+      "frameId": null,
+      "index": "b7P",
+      "roundness": {
+        "type": 2
+      },
+      "seed": 1525022455,
+      "version": 309,
+      "versionNonce": 278942809,
+      "isDeleted": false,
+      "boundElements": null,
+      "updated": 1789351505033,
+      "created": 1789351384508,
+      "link": null,
+      "locked": false,
+      "points": [
+        [
+          0,
+          0
+        ],
+        [
+          -69.83333333333519,
+          23.13836691086476
+        ],
+        [
+          -73.58333333333519,
+          203.13836691086476
+        ],
+        [
+          6.944444444442809,
+          220.6702464944226
+        ]
+      ],
+      "startBinding": {
+        "elementId": "ObddClF2haPIhQymn_iQB",
+        "mode": "orbit",
+        "fixedPoint": [
+          0,
+          0.5001
+        ]
+      },
+      "endBinding": {
+        "elementId": "F-_NGqFiHaqMbcClcqeUl",
+        "mode": "orbit",
+        "fixedPoint": [
+          0,
+          0.5001
+        ]
+      },
+      "startArrowhead": null,
+      "endArrowhead": "arrow",
+      "elbowed": false,
+      "moveMidPointsWithElement": false
+    }
+  ],
+  "appState": {
+    "gridSize": 20,
+    "gridStep": 5,
+    "gridModeEnabled": false,
+    "viewBackgroundColor": "#ffffff",
+    "lockedMultiSelections": {}
+  },
+  "files": {}
+}
