@@ -1,4 +1,4 @@
-# Estudos desenvolvimento, exercicios, projetos, mapas mentais
+# Desenvolvimento web -  arquitetura - Mapas mental
 
 Este repositório foi criado com foco na aprendizagem do desenvolvimento Web, Trazendo consigo conteudos da faculdade para melhor entedimento.
 
