@@ -1,6 +1,6 @@
 # Estudos desenvolvimento, exercicios, projetos, mapas mentais
 
-Este repositório foi criado com foco na aprendizagem de várias habilidades diferentes, principalmente para evoluir como desenvolvedor ADVPL/TLPP.
+Este repositório foi criado com foco na aprendizagem do desenvolvimento Web, Trazendo consigo conteudos da faculdade para melhor entedimento.
 
 Estou aprendendo a trabalhar com a biblioteca **PO UI**, ferramenta do Protheus baseada em Angular, voltada para a criação de telas front-end otimizadas e customizadas.
 
