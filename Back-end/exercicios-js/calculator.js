@@ -23,19 +23,20 @@ function calc() { // function for calculating numbers and return input user
         console.log("Invalid operation")
         }
         console.log(number1 + " " + operation + " " + number2 + " = " + valid(number1,number2));
+    return {number1,number2,operation}
     }
 
 while (true) {
-    calc();
+    let value = calc();
     const exit = input.question("Want to leave? (type [exit]): ");
     if (exit === "exit") break;
     const history = input.question("Would you like to view your history? ([yes][no])")
     if (history === "yes") { // Not tested.
         let historyJson = [{
-            number1Register: number1,
-            operationRegister: operation,
-            number2Register: number2
+            number1Register: value.number1,
+            operationRegister: value.operation,
+            number2Register: value.number2
         }];
-        res.json(historyJson)
+        //res.json(historyJson) -> Adjust the JSON format
     }
 }
