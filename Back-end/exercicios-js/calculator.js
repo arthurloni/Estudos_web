@@ -1,5 +1,9 @@
 // Studying JavaScript and English to practice both languages human and pc
 const input = require("readline-sync");
+const express = require("express")
+const app = express()
+
+app.use(express.json())
 
 let result    = { // Object for operation and numbers
     '+': (number1,number2) => number1 + number2,
@@ -25,5 +29,13 @@ while (true) {
     calc();
     const exit = input.question("Want to leave? (type [exit]): ");
     if (exit === "exit") break;
-    // Create logic to store a history of what was entered in a JSON file.
+    const history = input.question("Would you like to view your history? ([yes][no])")
+    if (history === "yes") { // Not tested.
+        let historyJson = [{
+            number1Register: number1,
+            operationRegister: operation,
+            number2Register: number2
+        }];
+        res.json(historyJson)
+    }
 }
