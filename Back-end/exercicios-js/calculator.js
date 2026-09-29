@@ -31,12 +31,18 @@ while (true) {
     const exit = input.question("Want to leave? (type [exit]): ");
     if (exit === "exit") break;
     const history = input.question("Would you like to view your history? ([yes][no])")
-    if (history === "yes") { // Not tested.
-        let historyJson = [{
-            number1Register: value.number1,
-            operationRegister: value.operation,
-            number2Register: value.number2
-        }];
-        //res.json(historyJson) -> Adjust the JSON format
+    historyJson = {
+        number1Register: value.number1,
+        operationRegister: value.operation,
+        number2Register: value.number2
+    }; // {number1Register: 9, operationRegister: '+', number2Register: 1}
+
+    historyJson = JSON.stringify(historyJson) // Saving JSON format
+
+    if (history === "yes") {
+        let formatjsonhistory = historyJson
+        for (let i = 1 ; 1 <= formatjsonhistory.length ; i++) {
+            console.log(formatjsonhistory[1])
+        }
     }
 }
