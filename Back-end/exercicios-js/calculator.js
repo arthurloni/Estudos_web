@@ -27,7 +27,7 @@ function validCalc(result,number1,number2,operation) {
 
     const valid = result[operation]; // Access for object
 
-    if (!valid?.name && (Number.isNaN(number1) || Number.isNaN(number2))) {
+    if ((!valid?.name) || (Number.isNaN(number1) || Number.isNaN(number2))) {
         console.log("Invalid operation or Invalid Number.")
         inputCalc()
     } else {
