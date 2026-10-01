@@ -10,39 +10,47 @@ let result    = { // Object for operation and numbers
     '-': (number1,number2) => number1 - number2,
     '*': (number1,number2) => number1 * number2,
     '/': (number1,number2) => number2 === 0 ? "Cannot divide by zero" : number1 / number2
-                            // restrict this ternary operation to a single line
+                            // Restrict this coalescence operator operation to a single line
 }
 
-function calc() { // function for calculating numbers and return input user
+function inputCalc() { // function for calculating numbers and return input user
     let number1   = Number(input.question("Enter number one: "));
     let operation = input.question("Enter the operation: ");
     let number2   = Number(input.question("Enter number two: "));
-    
-    const valid  = result[operation]; // Access for object
-    if (!valid) {
-        console.log("Invalid operation")
-        }
-        console.log(number1 + " " + operation + " " + number2 + " = " + valid(number1,number2));
-    return {number1,number2,operation}
+
+    let resultCalc = validCalc(result,number1,number2,operation)
+
+    return {number1,number2,operation,resultCalc}
+}
+
+function validCalc(result,number1,number2,operation) {
+
+    const valid = result[operation]; // Access for object
+
+    if (!valid?.name && (Number.isNaN(number1) || Number.isNaN(number2))) {
+        console.log("Invalid operation or Invalid Number.")
+        inputCalc()
+    } else {
+        console.log(number1 + " " + operation + " " + number2 + " = " + result[operation](number1,number2));
+        return result[operation](number1,number2) 
     }
+}
+
+const history = [];
 
 while (true) {
-    let value = calc();
+    const value = inputCalc();
+
+    history.push(value);
+
+    const showHistory = input.question("Would you like to view your history? ([yes][no]) ");
+    if (showHistory === "yes") {
+        history.forEach((item, i) => {
+            // console.log(`${i + 1}: ${item.number1} ${item.operation} ${item.number2} = ${item.resultCalc}`);
+            console.log((i+1) + ": " + (item.number1) + " + " + (item.number2) + " + " + (item.resultCalc))
+        });
+    }
+
     const exit = input.question("Want to leave? (type [exit]): ");
     if (exit === "exit") break;
-    const history = input.question("Would you like to view your history? ([yes][no])")
-    historyJson = {
-        number1Register: value.number1,
-        operationRegister: value.operation,
-        number2Register: value.number2
-    }; // {number1Register: 9, operationRegister: '+', number2Register: 1}
-
-    historyJson = JSON.stringify(historyJson) // Saving JSON format
-
-    if (history === "yes") {
-        let formatjsonhistory = historyJson
-        for (let i = 1 ; 1 <= formatjsonhistory.length ; i++) {
-            console.log(formatjsonhistory[1])
-        }
-    }
 }
