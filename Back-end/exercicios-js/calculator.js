@@ -21,14 +21,19 @@ function inputCalc() { // function for calculating numbers and return input user
 
 function validCalc(result, number1, number2, operation) {
 
-    const valid = result[operation]; // Access for object
+    if (!(operation === 'constructor') && !(operation === 'Object')) {
+        const valid = result[operation]; // Access for object
 
-    if ((!valid?.name) || (Number.isNaN(number1) || Number.isNaN(number2))) {
-        console.log("Invalid operation or Invalid Number.")
-        return false
+        if ((!valid?.name) || (Number.isNaN(number1) || Number.isNaN(number2))) {
+            console.log("Invalid operation or Invalid Number.")
+            return false
+        } else {
+            console.log(number1 + " " + operation + " " + number2 + " = " + result[operation](number1, number2));
+            return result[operation](number1, number2)
+        }
     } else {
-        console.log(number1 + " " + operation + " " + number2 + " = " + result[operation](number1, number2));
-        return result[operation](number1, number2)
+        let valueValidOperation = false
+        return valueValidOperation
     }
 }
 
@@ -40,7 +45,9 @@ while (true) {
     if ((!value?.operation) || (Number.isNaN(value.number1) || Number.isNaN(value.number2)) || (Number.isNaN(value.resultCalc))) {
         continue;
     } else {
-        history.push(value);
+        if (value.resultCalc != false) {
+            history.push(value);
+        }
     }
     
     const showHistory = input.question("Would you like to view your history? ([yes][no]) ").trim().toLowerCase();
