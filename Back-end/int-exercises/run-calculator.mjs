@@ -1,4 +1,4 @@
-import { Calculator } from "./class-calculator.js";
+import { Calculator } from "./class-calculator.mjs";
 
 const operations = {
     "+": (a, b) => a + b,
